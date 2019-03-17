@@ -21,7 +21,7 @@ h1 {
 }
 h2 {
 	font-size: 32px;
-	border-bottom-color: gray;
+	border-bottom-color: rgb(204, 194, 194);
 	border-bottom: 8px;
 	margin-bottom: 8px;
 }

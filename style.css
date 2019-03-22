@@ -8,7 +8,9 @@ body {
 	line-height: 1.5;
 	padding-top: 32px;
 	padding-bottom: 32px;
-  }
+	display: flex;
+	flex-direction: column;
+}
 p {
 	margin-bottom: 12px;
 }
@@ -32,8 +34,10 @@ h3 {
 header {
 	margin-bottom: 32px;
 	text-align: center;
+	align-content: flex-start;
 }
 footer {
 	margin-top: 64px;
 	text-align: center;
+	align-items: flex-end;
 }

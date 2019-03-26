@@ -12,7 +12,7 @@ body {
 	flex-direction: column;
 }
 a:visited {
-	color: 85,255,128;
+	color: #FFAA64;
 }
 p {
 	margin-bottom: 12px;
